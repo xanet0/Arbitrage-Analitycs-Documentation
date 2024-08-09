@@ -12,7 +12,7 @@
   
   1. Відкриваємо репозиторій з нашим ботом
   2. Тикаємо зверху на Actions
-  <img src="https://raw.githubusercontent.com/xanet0/Arbitrage-Analitycs-Documentation/main/image/Screenshot_2.png" alt="Фото" style="width: 40%;">
+  <img src="https://raw.githubusercontent.com/xanet0/Arbitrage-Analitycs-Documentation/main/image/Screenshot_2.png" alt="Фото" style="width: 70%;">
 </details>
 <details>
   <summary>Як заповнити таблицю за інший день</summary>
