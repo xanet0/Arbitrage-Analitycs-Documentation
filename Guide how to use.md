@@ -21,8 +21,8 @@
   <img src="https://raw.githubusercontent.com/xanet0/Arbitrage-Analitycs-Documentation/main/image/image_2024-08-09_15-46-09.png" alt="Фото" style="width: 80%;">
 </details>
 <details>
-  <summary>Як заповнити таблицю за інший день</summary>
-  <h3>В пункті таблиця не заповнилась все розписано</h3>
+  <summary>Як заповнити таблицю за інший день</summary><br>
+  <strong>В пункті таблиця не заповнилась все розписано</strong>
 </details>
 
 
