@@ -9,11 +9,14 @@
 </details>
 <details>
   <summary>Налаштування бота</summary>
-  1. ```bash
+ <pre><code>
       git clone https://github.com/username/repository.git
-      ```
-
-  hello_world()
+      cd repository
+      # Встановіть залежності
+      pip install -r requirements.txt
+      # Запустіть скрипт
+      python bot.py
+  </code></pre>
 </details>
 <details>
   <summary>Додавання нової апки</summary>
