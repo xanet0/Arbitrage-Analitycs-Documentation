@@ -28,21 +28,41 @@
 <details>
   <summary>Додавання нової апки в табличку</summary>
   <h3>Налаштування:</h3>
-    
+  
+  1. Відкриваємо наш репозиторій та потрібну нам папку
+  2. Відкриваємо data.json
+
   <details>
     <summary>Unity Ads</summary>
+    
+    1. Открываем Unity Cloud, User Acquisition
+    2. Наводим курсором на нужную нам апку
+    3. Копируем Campaign Set ID:
+    
   </details>
   
   <details>
     <summary>Unity Monet</summary>
+    
+    1.
+    2.
+    
   </details>
   
   <details>
     <summary>IS Monetization</summary>
+    
+    1.
+    2.
+
   </details>
   
   <details>
     <summary>IS Ads</summary>
+    
+    1.
+    2.
+    
   </details>
   
 </details>
