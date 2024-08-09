@@ -31,17 +31,49 @@
   
   1. Відкриваємо наш репозиторій та потрібну нам папку
   2. Відкриваємо data.json
+  3. В табличці створюємо новий лист з кампаніями
+  4. Колонки з сервісами повинні бути обов'язково в такому ж порядку як на інших листах 
 
   <details>
+    <summary>Обов'язкові правила</summary>
+    
+  При додаванні кампанії або апки в data.json <strong>дуже важливий порядок</strong>
+  Як потрібно додавати кампанію/апку
+    
+    Наприклад:
+        У нас в табличці такий порядок: Gta USSR, GTA Brazil, Gta Mexico
+        Ми хочемо додати GTA Brazil в парсер, в data.json повино вийти так:
+        "Gta USSR":"fj438djsdkjf2",
+        "Gta brazil":"sdlfsu39d",
+        "Gta Mexico":"kdsfhs892df"
+
+  <strong>Примітка</strong>
+
+    Якщо ви додаєте апку в табличку в самий кінець списку, то при додаванні строки в data.json кома в кінці не повинна стояти   "Назву апки":"Campaign Set ID"
+    Якщо додаєте апку не в кінці списку, то кома повинна ОБОВ'ЯЗКОВО стояти "Назву апки":"Campaign Set ID",
+    
+  </details>
+  <details>
     <summary><h3>Unity Ads</h3></summary>
-  <strong>Копирование Campaign Set ID</strong>
+  <strong>Копіювання Campaign Set ID</strong>
     
-    1. Открываем Unity Cloud, User Acquisition
-    2. Наводим курсором на нужную нам апку
-    3. Копируем Campaign Set ID:
+    1. Відкриваємо Unity Cloud, User Acquisition
+    2. Наводимо курсором на потрібну нам апку
+    3. Копіюємо Campaign Set ID:
     
-  <img src="https://github.com/xanet0/Arbitrage-Analitycs-Documentation/blob/main/image/Screenshot_4.png" alt="Фото" style="width: 80%;">
+  <img src="https://github.com/xanet0/Arbitrage-Analitycs-Documentation/blob/main/image/Screenshot_4.png" alt="Фото" style="width: 80%;"><br>
+
+
+  <strong>Додавання Кампанії в Бота</strong>
+
     
+    1. Заходимо в data.json, шукаємо розділ unityAds
+
+      Структура кода в розділі unityAds
+      "Назван апки(можна вказати любу назву)":"Campaign Set ID",
+    2. Далі орієнтуємося по назвам апок і додаємо нову строку, в тому ж порядку як в табличці
+    3. В строці пишемо "Назву апки(можна вказати любу назву)":"Campaign Set ID",
+      
   </details>
   
   <details>
