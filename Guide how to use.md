@@ -12,7 +12,7 @@
   
   1. Відкриваємо репозиторій з нашим ботом
   2. Тикаємо зверху на Actions
-  <img src="https://raw.githubusercontent.com/xanet0/Arbitrage-Analitycs-Documentation/main/image/Screenshot_2.png" alt="Фото" style="width: 40%;">
+  <img src="https://raw.githubusercontent.com/xanet0/Arbitrage-Analitycs-Documentation/main/image/Screenshot_2.png" alt="Фото" style="width: 40%;"><br>
   3. 1) Тикаємо на <strong>Google Sheets API parser</strong>
      2) Жмемо <strong>Run workflow</strong>
      3) Записуємо дату яку нам потрібно оновити в форматі <span style="color:blue">Дата.Місяць.Рік</span>. <strong>Приклад: 09.04.2024</strong>
