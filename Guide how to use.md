@@ -27,7 +27,6 @@
 
 <details>
   <summary>Додавання нової апки в табличку</summary>
-  <details>
   <h3>Налаштування:</h3>
     
   <details>
