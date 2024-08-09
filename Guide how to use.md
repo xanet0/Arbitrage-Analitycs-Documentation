@@ -9,9 +9,9 @@
 </details>
 <details>
   <summary>Налаштування бота</summary>
-  1. ```python
-  def hello_world():
-      print("Hello, world!")
+  1. ```bash
+      git clone https://github.com/username/repository.git
+      ```
 
   hello_world()
 </details>
