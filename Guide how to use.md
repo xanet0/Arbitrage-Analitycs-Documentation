@@ -8,23 +8,10 @@
   
 </details>
 <details>
-  <summary>Налаштування бота</summary>
- <code>
-      git clone https://github.com/username/repository.git
-      cd repository
-      # Встановіть залежності
-      pip install -r requirements.txt
-      # Запустіть скрипт
-      python bot.py
-  </code>
-</details>
-<details>
-  <summary>Додавання нової апки</summary>
-  1. 
-</details>
-<details>
   <summary>Таблиця не заповнилась</summary>
-  1. 
+  1. Відкриваємо репозиторій з нашим ботом
+  2. Тикаємо на 
+  <img src="https://s13.stc.yc.kpcdn.net/share/i/12/12599319/de-1200x900.jpg" alt="Опис картинки" width="500" height="300">
 </details>
 <details>
   <summary>Як заповнити таблицю за інший день</summary>
