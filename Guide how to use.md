@@ -95,7 +95,7 @@
   </details>
   
   <details>
-    <summary><strong>IS Monetization</strong></summary>><br>
+    <summary><strong>IS Monetization</strong></summary><br>
   <strong>Копіювання App ID</strong>
     
     1. Відкриваємо IronSorce, тикаємо на Apps
@@ -113,10 +113,31 @@
   </details>
   
   <details>
-    <summary><strong>IS Ads</strong></summary>
+    <summary><strong>IS Ads</strong></summary><br>
     
-    1.
-    2.
+  Примітка: Налаштування IS Ads буде трохи відрізнятися від інших
+  <strong>Отримання назви апки в IS Ads</strong>
+    
+    1. Відкриваємо IronSource, відкриваємо Ads
+    2. Тицяємо на Report Generator
+    3. Після чого тицяємо на триб
+    4. У вас буде стояти галочка на Country, її ми прибираємо. На фотці видно що повинно стояти
+    5. Тикаємо на Run Report
+  <h1><a href="https://slovnyk.ua/index.php?swrd=%D1%82%D1%80%D0%B8%D0%B1" target="_blank">Триб</a></h1><br>
+  <img src="https://github.com/xanet0/Arbitrage-Analitycs-Documentation/blob/main/image/Screenshot_3.png" alt="Фото" style="width: 80%;"><br>
+
+    1. Перед собою ми бачимо список всіх активних кампаній
+    2. Далі нам просто потрібно скопіювати назву кампанії
+
+  <img src="https://github.com/xanet0/Arbitrage-Analitycs-Documentation/blob/main/image/Screenshot_9.png" alt="Фото" style="width: 80%;"><br>
+
+  Наступний крок з додаванням Кампанії в Бота трохи відрізняється
+  <strong>Додавання Кампанії в Бота</strong>
+  
+    1. Заходимо в data.json, шукаємо розділ ironsourceAds
+    2. Далі заходимо в свою табличку та копіюємо назву листа, для которого налаштовуємо бота
+    3. Далі додаємо нову строку, порядок не важливий і в строці пишемо "Назву листа в табличці":"Назва апки IS Ads",
+
     
   </details>
   
