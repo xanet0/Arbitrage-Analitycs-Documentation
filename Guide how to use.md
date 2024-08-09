@@ -23,3 +23,27 @@
   <summary>Як заповнити таблицю за інший день</summary>
   <h3>В пункті таблиця не заповнилась все розписано</h3>
 </details>
+
+
+<details>
+  <summary>Додавання нової апки в табличку</summary>
+  <details>
+  <h3>Налаштування:</h3>
+    
+  <details>
+    <summary>Unity Ads</summary>
+  </details>
+  
+  <details>
+    <summary>Unity Monet</summary>
+  </details>
+  
+  <details>
+    <summary>IS Monetization</summary>
+  </details>
+  
+  <details>
+    <summary>IS Ads</summary>
+  </details>
+  
+</details>
