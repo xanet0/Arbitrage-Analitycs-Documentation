@@ -9,14 +9,14 @@
 </details>
 <details>
   <summary>Налаштування бота</summary>
- <pre><code>
+ <code>
       git clone https://github.com/username/repository.git
       cd repository
       # Встановіть залежності
       pip install -r requirements.txt
       # Запустіть скрипт
       python bot.py
-  </code></pre>
+  </code>
 </details>
 <details>
   <summary>Додавання нової апки</summary>
@@ -30,18 +30,3 @@
   <summary>Як заповнити таблицю за інший день</summary>
   1. 
 </details>
-<style>
-        code {
-            background-color: #f4f4f4;
-            padding: 2px 4px;
-            border-radius: 4px;
-            font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-        }
-        pre {
-            background-color: #f4f4f4;
-            padding: 10px;
-            border-radius: 4px;
-            overflow-x: auto;
-            font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-        }
-    </style>
