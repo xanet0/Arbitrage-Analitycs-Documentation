@@ -33,8 +33,8 @@
   2. Відкриваємо data.json
 
   <details>
-    <summary>Unity Ads</summary>
-  **Копирование Campaign Set ID**
+    <summary><h3>Unity Ads</h3></summary>
+  <strong>Копирование Campaign Set ID</strong>
   
     1. Открываем Unity Cloud, User Acquisition
     2. Наводим курсором на нужную нам апку
