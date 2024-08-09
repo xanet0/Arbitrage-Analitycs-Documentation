@@ -11,12 +11,12 @@
   <summary>Таблиця не заповнилась</summary>
   
   1. Відкриваємо репозиторій з нашим ботом
-  2. Тикаємо зверху на Actions<br>
+  2. Тикаємо зверху на <strong>Actions</strong><br>
   <img src="https://raw.githubusercontent.com/xanet0/Arbitrage-Analitycs-Documentation/main/image/Screenshot_2.png" alt="Фото" style="width: 80%;"><br>
   3. 1. Тикаємо на <strong>Google Sheets API parser</strong>
      2. Жмемо <strong>Run workflow</strong>
      3. Записуємо дату, яку в таблиці нам потрібно оновити<pre><strong>Формат Запису</strong><br>Дата.Місяць.Рік<br>Приклад: 09.04.2024</pre>
-     4. Далі тиснемо на Run workflow знову
+     4. Далі тиснемо на <strong>Run workflow</strong> знову
   <img src="https://raw.githubusercontent.com/xanet0/Arbitrage-Analitycs-Documentation/main/image/image_2024-08-09_15-46-09.png" alt="Фото" style="width: 80%;">
 </details>
 <details>
