@@ -34,8 +34,8 @@
 
   <details>
     <summary>Unity Ads</summary>
-
   **Копирование Campaign Set ID**
+  
     1. Открываем Unity Cloud, User Acquisition
     2. Наводим курсором на нужную нам апку
     3. Копируем Campaign Set ID:
