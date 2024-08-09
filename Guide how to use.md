@@ -55,7 +55,7 @@
     
   </details>
   <details>
-    <summary><strong>Unity Ads</strong></summary>
+    <summary><strong>Unity Ads</strong></summary><br>
     <strong>Копіювання Campaign Set ID</strong>
       
     1. Відкриваємо Unity Cloud, User Acquisition
@@ -75,7 +75,7 @@
   </details>
   
   <details>
-    <summary><strong>Unity Monet</strong></summary>
+    <summary><strong>Unity Monet</strong></summary>><br>
     <strong>Копіювання Android Game ID</strong>
     
     1. Відкриваємо Unity Cloud, Ads Monetization
@@ -95,11 +95,21 @@
   </details>
   
   <details>
-    <summary><strong>IS Monetization</strong></summary>
-  
-    1.
-    2.
+    <summary><strong>IS Monetization</strong></summary>><br>
+  <strong>Копіювання App ID</strong>
+    
+    1. Відкриваємо IronSorce, тикаємо на Apps
+    2. Шукаємо потрібну нам апку
+    3. Копіюємо App ID
 
+  <img src="https://github.com/xanet0/Arbitrage-Analitycs-Documentation/blob/main/image/Screenshot_5.png" alt="Фото" style="width: 80%;"><br>
+
+  <strong>Додавання Кампанії в Бота</strong>
+  
+    1. Заходимо в data.json, шукаємо розділ ironsourceMonet
+    2. Далі орієнтуємося по назвам апок і додаємо нову строку, в тому ж порядку як в табличці
+    3. В строці пишемо "Назву апки(можна вказати любу назву)":"App ID",
+  
   </details>
   
   <details>
