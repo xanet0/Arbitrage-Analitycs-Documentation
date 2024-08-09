@@ -35,7 +35,7 @@
   4. Колонки з сервісами повинні бути обов'язково в такому ж порядку як на інших листах 
 
   <details>
-    <summary><h3>Обов'язкові правила</h3></summary>
+    <summary><strong>Обов'язкові правила</strong></summary>
     
   При додаванні кампанії або апки в data.json <strong>дуже важливий порядок</strong>
   Як потрібно додавати кампанію/апку
@@ -54,7 +54,7 @@
     
   </details>
   <details>
-    <summary><h3>Unity Ads</h3></summary>
+    <summary><strong>Unity Ads</strong></summary>
   <strong>Копіювання Campaign Set ID</strong>
     
     1. Відкриваємо Unity Cloud, User Acquisition
