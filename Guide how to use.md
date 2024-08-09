@@ -9,7 +9,11 @@
 </details>
 <details>
   <summary>Налаштування бота</summary>
-  1. 
+  1. ```python
+  def hello_world():
+      print("Hello, world!")
+
+  hello_world()
 </details>
 <details>
   <summary>Додавання нової апки</summary>
