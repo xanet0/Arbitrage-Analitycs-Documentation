@@ -4,7 +4,8 @@
   
   1. Ні в якому випадку не можна змінювати порядок таблиць в Google Sheets
   2. Не переставляти/додавати колонки в сторінках
-  3. Дивись пункт 1 та 2
+  3. Якщо вам просто треба додати апку в табличку і ви не намагались додати самі апку в бота, то писати мені не треба
+  4. Звоніть якщо виникли проблеми з ботом
   
 </details>
 <details>
@@ -55,37 +56,46 @@
   </details>
   <details>
     <summary><strong>Unity Ads</strong></summary>
-  <strong>Копіювання Campaign Set ID</strong>
-    
+    <strong>Копіювання Campaign Set ID</strong>
+      
     1. Відкриваємо Unity Cloud, User Acquisition
     2. Наводимо курсором на потрібну нам апку
     3. Копіюємо Campaign Set ID:
-    
+      
   <img src="https://github.com/xanet0/Arbitrage-Analitycs-Documentation/blob/main/image/Screenshot_4.png" alt="Фото" style="width: 80%;"><br>
-
-
+  
+  
   <strong>Додавання Кампанії в Бота</strong>
-
-    
+  
+      
     1. Заходимо в data.json, шукаємо розділ unityAds
-
-      Структура кода в розділі unityAds
-      "Назван апки(можна вказати любу назву)":"Campaign Set ID",
     2. Далі орієнтуємося по назвам апок і додаємо нову строку, в тому ж порядку як в табличці
     3. В строці пишемо "Назву апки(можна вказати любу назву)":"Campaign Set ID",
-      
+        
   </details>
   
   <details>
-    <summary>Unity Monet</summary>
+    <summary><strong>Unity Monet</strong></summary>
+    <strong>Копіювання Android Game ID</strong>
     
-    1.
-    2.
+    1. Відкриваємо Unity Cloud, Ads Monetization
+    2. Вибираємо потрібну нам апку
+    3. Жмемо на Ad units
+    4. Копіюємо Android Game Id:
+    
+  <img src="https://github.com/xanet0/Arbitrage-Analitycs-Documentation/blob/main/image/Screenshot_3.png" alt="Фото" style="width: 80%;"><br>
+
+  
+  <strong>Додавання Кампанії в Бота</strong>
+  
+    1. Заходимо в data.json, шукаємо розділ unityMonet
+    2. Далі орієнтуємося по назвам апок і додаємо нову строку, в тому ж порядку як в табличці
+    3. В строці пишемо "Назву апки(можна вказати любу назву)":"Android Game Id",
     
   </details>
   
   <details>
-    <summary>IS Monetization</summary>
+    <summary><strong>IS Monetization</strong></summary>
   
     1.
     2.
@@ -93,7 +103,7 @@
   </details>
   
   <details>
-    <summary>IS Ads</summary>
+    <summary><strong>IS Ads</strong></summary>
     
     1.
     2.
