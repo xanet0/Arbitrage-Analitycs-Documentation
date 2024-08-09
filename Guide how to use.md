@@ -9,6 +9,7 @@
 </details>
 <details>
   <summary>Таблиця не заповнилась</summary>
+  
   1. Відкриваємо репозиторій з нашим ботом
   2. Тикаємо на 
   <img src="https://s13.stc.yc.kpcdn.net/share/i/12/12599319/de-1200x900.jpg" alt="Опис картинки" width="500" height="300">
